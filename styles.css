@@ -1,0 +1,51 @@
+#catty {
+
+}
+
+
+
+#start {
+  display: inline-block;
+  height: 80px;
+  width: 120px; 
+  background-color: green;
+  position: relative;
+  top: 300px;
+}
+
+#faster {
+  display: inline-block;
+  height: 80px;
+  width: 120px; 
+  background-color: blue;
+  position: relative;
+  top: 300px;
+}
+
+#slower {
+  display: inline-block;
+  height: 80px;
+  width: 120px; 
+  background-color: yellow;
+  position: relative;
+  top: 300px;
+}
+
+#stop {
+  display: inline-block;
+  height: 80px;
+  width: 120px; 
+  background-color: orange;
+  position: relative;
+  top: 300px;
+}
+
+#paragraph {
+  height: 100px;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto; 
+  position: relative;
+  top: 300px;
+}
+
